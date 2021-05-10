@@ -1,3 +1,12 @@
+## [v1.0.5] - 2021-05-10
+
+[Release notes](https://github.com/BetaHuhn/node-starter/releases/tag/v1.0.5) · [Compare](https://github.com/BetaHuhn/node-starter/compare/v1.0.4...v1.0.5) · [Tag](https://github.com/BetaHuhn/node-starter/tree/v1.0.5) · Archive ([zip](https://github.com/BetaHuhn/node-starter/archive/v1.0.5.zip) · [tar.gz](https://github.com/BetaHuhn/node-starter/archive/v1.0.5.tar.gz))
+
+### Dependency updates
+
+- [`c937da1`](https://github.com/BetaHuhn/node-starter/commit/c937da1)  Bump @vercel/ncc from 0.28.4 to 0.28.5
+- [`d9a2d5f`](https://github.com/BetaHuhn/node-starter/commit/d9a2d5f)  Bump dotenv from 8.2.0 to 8.5.1
+
 ## [v1.0.4] - 2021-05-03
 
 [Release notes](https://github.com/BetaHuhn/node-starter/releases/tag/v1.0.4) · [Compare](https://github.com/BetaHuhn/node-starter/compare/v1.0.3...v1.0.4) · [Tag](https://github.com/BetaHuhn/node-starter/tree/v1.0.4) · Archive ([zip](https://github.com/BetaHuhn/node-starter/archive/v1.0.4.zip) · [tar.gz](https://github.com/BetaHuhn/node-starter/archive/v1.0.4.tar.gz))
