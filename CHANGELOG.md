@@ -1,3 +1,11 @@
+## [v1.0.10] - 2021-07-12
+
+[Release notes](https://github.com/BetaHuhn/node-starter/releases/tag/v1.0.10) · [Compare](https://github.com/BetaHuhn/node-starter/compare/v1.0.9...v1.0.10) · [Tag](https://github.com/BetaHuhn/node-starter/tree/v1.0.10) · Archive ([zip](https://github.com/BetaHuhn/node-starter/archive/v1.0.10.zip) · [tar.gz](https://github.com/BetaHuhn/node-starter/archive/v1.0.10.tar.gz))
+
+### Dependency updates
+
+- [`458c381`](https://github.com/BetaHuhn/node-starter/commit/458c381)  Bump eslint from 7.29.0 to 7.30.0
+
 ## [v1.0.9] - 2021-06-28
 
 [Release notes](https://github.com/BetaHuhn/node-starter/releases/tag/v1.0.9) · [Compare](https://github.com/BetaHuhn/node-starter/compare/v1.0.8...v1.0.9) · [Tag](https://github.com/BetaHuhn/node-starter/tree/v1.0.9) · Archive ([zip](https://github.com/BetaHuhn/node-starter/archive/v1.0.9.zip) · [tar.gz](https://github.com/BetaHuhn/node-starter/archive/v1.0.9.tar.gz))
