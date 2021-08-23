@@ -1,3 +1,13 @@
+## [v1.0.12] - 2021-08-23
+
+[Release notes](https://github.com/BetaHuhn/node-starter/releases/tag/v1.0.12) · [Compare](https://github.com/BetaHuhn/node-starter/compare/v1.0.11...v1.0.12) · [Tag](https://github.com/BetaHuhn/node-starter/tree/v1.0.12) · Archive ([zip](https://github.com/BetaHuhn/node-starter/archive/v1.0.12.zip) · [tar.gz](https://github.com/BetaHuhn/node-starter/archive/v1.0.12.tar.gz))
+
+### Dependency updates
+
+- [`410ef59`](https://github.com/BetaHuhn/node-starter/commit/410ef59)  Bump @vercel/ncc from 0.29.0 to 0.29.1
+- [`e715b6e`](https://github.com/BetaHuhn/node-starter/commit/e715b6e)  Bump eslint from 7.31.0 to 7.32.0
+- [`ccff54d`](https://github.com/BetaHuhn/node-starter/commit/ccff54d)  Bump @vercel/ncc from 0.29.1 to 0.29.2
+
 ## [v1.0.11] - 2021-07-26
 
 [Release notes](https://github.com/BetaHuhn/node-starter/releases/tag/v1.0.11) · [Compare](https://github.com/BetaHuhn/node-starter/compare/v1.0.10...v1.0.11) · [Tag](https://github.com/BetaHuhn/node-starter/tree/v1.0.11) · Archive ([zip](https://github.com/BetaHuhn/node-starter/archive/v1.0.11.zip) · [tar.gz](https://github.com/BetaHuhn/node-starter/archive/v1.0.11.tar.gz))
