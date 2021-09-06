@@ -1,6 +1,6 @@
 {
   "name": "node-starter",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Starter repo for Node.js project",
   "bin": "./dist/index.js",
   "files": [
