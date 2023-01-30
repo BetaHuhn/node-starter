@@ -1,3 +1,11 @@
+## [v1.0.23] - 2023-01-30
+
+[Release notes](https://github.com/BetaHuhn/node-starter/releases/tag/v1.0.23) · [Compare](https://github.com/BetaHuhn/node-starter/compare/v1.0.22...v1.0.23) · [Tag](https://github.com/BetaHuhn/node-starter/tree/v1.0.23) · Archive ([zip](https://github.com/BetaHuhn/node-starter/archive/v1.0.23.zip) · [tar.gz](https://github.com/BetaHuhn/node-starter/archive/v1.0.23.tar.gz))
+
+### Dependency updates
+
+- [`9cd503e`](https://github.com/BetaHuhn/node-starter/commit/9cd503e)  Bump @vercel/ncc from 0.36.0 to 0.36.1
+
 ## [v1.0.22] - 2022-12-12
 
 [Release notes](https://github.com/BetaHuhn/node-starter/releases/tag/v1.0.22) · [Compare](https://github.com/BetaHuhn/node-starter/compare/v1.0.21...v1.0.22) · [Tag](https://github.com/BetaHuhn/node-starter/tree/v1.0.22) · Archive ([zip](https://github.com/BetaHuhn/node-starter/archive/v1.0.22.zip) · [tar.gz](https://github.com/BetaHuhn/node-starter/archive/v1.0.22.tar.gz))
